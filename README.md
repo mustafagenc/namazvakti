@@ -53,4 +53,4 @@ Diyanet: {
 
 ## Stats
 
-![Alt](https://repobeats.axiom.co/api/embed/ea86e58d4d95508a71d5d33a07a6c635ce1fce80.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/ea86e58d4d95508a71d5d33a07a6c635ce1fce80.svg 'Repobeats analytics image')
